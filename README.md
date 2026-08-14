@@ -6,8 +6,7 @@ This project includes both a console-based Python version and a professional Str
 
 🚀 Live Demo
 
-🔗 Streamlit Live App: Coming Soon
-
+🔗 Streamlit Live App: Coming Soon(https://python-project-e9app8raqvnz9zbq28yubvw.streamlit.app)
 ✨ Features
 
 - 🎮 Interactive Rock Paper Scissors gameplay
